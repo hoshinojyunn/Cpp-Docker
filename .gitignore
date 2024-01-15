@@ -1,0 +1,6 @@
+.vscode/
+build/
+fs/
+
+docker-image.tar
+network-tool.zip
